@@ -1,4 +1,4 @@
-package com.NR.variables;
+package com.nr.variables;
 /*
 Instance method
  */

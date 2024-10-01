@@ -1,4 +1,4 @@
-package com.NR.variables;
+package com.nr.variables;
 /*
 Static method
  */
@@ -7,6 +7,7 @@ public class Staticvariable {
     This is method
      */
     public static void m1(){
+
         System.out.println("This is static variable");
     }
 
